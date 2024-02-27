@@ -1,0 +1,11 @@
+Location Where you have to put the add-in File "AmtInWords.xla" 👇
+
+C:\Users\You Computer Name\AppData\Roaming\Microsoft\AddIns
+
+==================================================
+Hope to see you there on our YouTube Channel :)
+==================================================
+
+================================================================================
+                    	2023, YouTube - plk-videos@99
+================================================================================
